@@ -17,17 +17,17 @@ Designed by XENIA
 - PC
 
 <p align=center float="left">
-  <img src="https://github.com/Xenia101/Nichijou.kr-ver.2020/blob/master/img/pc.PNG?raw=true">
+  <img src="https://github.com/Xenia101/Nichijou.kr-ver.2018/blob/master/img/pc.PNG?raw=true">
 </p>
 
 - Tablet
 
 <p align=center float="left">
-  <img src="https://github.com/Xenia101/Nichijou.kr-ver.2020/blob/master/img/tablet.PNG?raw=true">
+  <img src="https://github.com/Xenia101/Nichijou.kr-ver.2018/blob/master/img/tablet.PNG?raw=true">
 </p>
 
 - Mobile (iPhone 6/7/8)
 
 <p align=center float="left">
-  <img src="https://github.com/Xenia101/Nichijou.kr-ver.2020/blob/master/img/phone.PNG?raw=true">
+  <img src="https://github.com/Xenia101/Nichijou.kr-ver.2018/blob/master/img/phone.PNG?raw=true">
 </p>
